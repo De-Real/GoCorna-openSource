@@ -1,0 +1,3 @@
+function bingo(){
+	alert('yes');
+}
